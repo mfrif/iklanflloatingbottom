@@ -1,0 +1,7 @@
+.MS-ads { position: fixed; bottom: 0px; left: 0; width: 100%; min-height: 100px; max-height: 125px; padding: 5px 5px; box-shadow: 0 -6px 18px 0 rgba(9,32,76,.1); -webkit-transition: all .1s ease-in; transition: all .1s ease-in; display: flex; align-items: center; justify-content: center; background-color: #fefefe; z-index: 20; } 
+ 
+.MS-ads-close { width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; border-radius: 12px 0 0; position: absolute; right: 0; top: -30px; background-color: #fefefe; box-shadow: 0 -6px 18px 0 rgba(9,32,76,.08); } 
+ 
+.MS-ads .MS-ads-close svg { width: 22px; height: 22px; fill: #000; } 
+ 
+.MS-ads .MS-ads-content { overflow: hidden; display: block; position: relative; height: 90px; width: 100%; margin-right: 10px; margin-left: 10px; }
